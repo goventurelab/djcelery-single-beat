@@ -1,6 +1,6 @@
 # djcelery-single-beat
 
-Django Celery Single Beat: Expired by https://github.com/ybrs/single-beat
+Django Celery Single Beat: Inspired by https://github.com/ybrs/single-beat
 
 Quick start
 -----------
